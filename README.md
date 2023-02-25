@@ -50,7 +50,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://googleconnect-frontend.vercel.app/
 
 ## 🧑‍💻 Authors
 
